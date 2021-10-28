@@ -15,5 +15,6 @@ There will be 10 drops in total adding up to 50 regular NFTs, 10 special edition
 
 # The Charities
 [Scottish Association for Mental Health](https://www.samh.org.uk/)
+
 [Anxiety & Depression Association of America](https://donate.adaa.org/)
 

@@ -4,7 +4,7 @@ Calm Seas is an NFT project with a focus on mental health. Each NFT artwork will
 # The Artwork
 ![Proto 1](https://github.com/xxiled-plastic-cat/calm-seas/blob/main/Images/Proto-1.JPG)
 ![Proto 2](https://github.com/xxiled-plastic-cat/calm-seas/blob/main/Images/Proto-2.JPG)
-
+<img src="Proto-1.JPG", width="800">
 # The NFT Drops
 Each drop will consist of
 - Five 1/1 NFTs of one boat with different colour schemes and backgrounds

@@ -2,7 +2,8 @@
 Calm Seas is an NFT project with a focus on mental health. Each NFT artwork will feature a hand drawn sailing boat - the emblem of our project - and we will donate 50% of all sales (including royalties from secondary sales) to a number of mental health charities across the world.
 
 # The Artwork
-Images here
+!(Images/Proto-1.jpg)
+!(Images/Proto-2.jpg)
 
 # The NFT Drops
 Each drop will consist of
@@ -14,4 +15,5 @@ There will be 10 drops in total adding up to 50 regular NFTs, 10 special edition
 
 # The Charities
 [Scottish Association for Mental Health](https://www.samh.org.uk/)
+[Anxiety & Depression Association of America](https://donate.adaa.org/)
 

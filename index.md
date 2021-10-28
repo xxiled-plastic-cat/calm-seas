@@ -6,9 +6,12 @@ Images here
 
 # The NFT Drops
 Each drop will consist of
-- Five 1/1 NFTs of one hull type
+- Five 1/1 NFTs of one boat with different colour schemes and backgrounds
 - 100 Captain Hats
-- 1 special version of this drop's hull type with additional artwork
+- 1 special version of this drop's type with additional artwork
+
+There will be 10 drops in total adding up to 50 regular NFTs, 10 special editions and 1000 captain hats
 
 # The Charities
-TBC
+[Scottish Association for Mental Health](https://www.samh.org.uk/)
+

@@ -18,3 +18,5 @@ There will be 10 drops in total adding up to 50 regular NFTs, 10 special edition
 
 [Anxiety & Depression Association of America](https://donate.adaa.org/)
 
+<iframe src="https://andpay.io/p/b3ff934c59b044b2b2048a388c774e48/embed" width="400" height="600" style="border:none;"></iframe>
+
